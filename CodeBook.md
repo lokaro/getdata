@@ -13,16 +13,16 @@ The attached R script (run_analysis.R) has following operations:
 
 
 * Merges the training and test sets:
-        - X_test.txt & X_train.txt
-        - Y_test.txt & Y_train.txt
-        - subject_test.txt & subject_train.txt
+	- X_test.txt & X_train.txt
+	- Y_test.txt & Y_train.txt
+	- subject_test.txt & subject_train.txt
 
 * Reads Features from features.txt (mean and std) .
 
 * Reads Activities from activity_labels.txt:
-        1 WALKING
-        2 WALKING_UPSTAIRS
-        3 WALKING_DOWNSTAIRS
-        4 SITTING
-        5 STANDING
-        6 LAYING
+	1 WALKING
+	2 WALKING_UPSTAIRS
+	3 WALKING_DOWNSTAIRS
+	4 SITTING
+	5 STANDING
+	6 LAYING
